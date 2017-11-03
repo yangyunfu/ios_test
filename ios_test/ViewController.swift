@@ -27,3 +27,6 @@ class ViewController: UIViewController {
     
 }
 
+ func buttonClicked(_ sender: UIButton) {
+    print("You finished!")
+}
